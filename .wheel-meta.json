@@ -1,0 +1,22 @@
+{
+  "wheel_id": 923,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-155",
+  "project": "retaining-wall-installation-brisbane-beginner-guide-e2e1990ef4e",
+  "parent_t1_ref": "qldretainingandfencing-010",
+  "node_role": "buffer",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installation brisbane beginner guide",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-installation-brisbane-beginner-guide-e2e1990ef4e/",
+  "tier": "T2",
+  "writeback_nonce": "fba4c059893cbdd9",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-wall-installation-brisbane/",
+      "anchor": "this retaining wall installation brisbane resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
